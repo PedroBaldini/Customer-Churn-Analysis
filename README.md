@@ -1,4 +1,4 @@
- <h1> 📊 Projeto de Portfólio: Análise de Churn de Clientes de uma base de dados</h1>
+ <h1> 📊 Projeto de Portfólio: Análise de Churn de Clientes</h1>
 
 <h2>🧠 1. Objetivo do Projeto</h2>
 Realização de uma análise exploratória e criação de modelos de machine learning para previsão de clientes que cancelariam o serviço.<br>
